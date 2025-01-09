@@ -62,7 +62,6 @@ npm install
 ```
 ### Step 3: Set up environment variables
 1. In the root directory, there is a file named .env.example. Rename this file to .env:
-bash
 ```bash
 mv .env.example .env
 ```
